@@ -6,8 +6,8 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 22/1007690  |  Diego Carlito Rodrigues de Souza |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1007690  |  Diego Carlito Rodrigues de Souza  |
+| 22/1008300  |  Marcos Antonio Teles de Castilhos |
 
 ## Sobre 
 O projeto possui como tema central a resolução de exercícios de programação competitiva com o tema de Grafos, utilizando a plataforma de juiz online LeetCode.
