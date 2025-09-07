@@ -20,7 +20,15 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 ## Screenshots
 
-### Exercício 01
+### Exercício 01 - [2608. Shortest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos1_LeetCode-D17/blob/master/2608_Shortest_Cycle_Graph/solution.cpp) - Difícil
+
+<div align="center">
+  <img src="2608_Shortest_Cycle_Graph/image.png" alt="Submissão LeetCode 2608" />
+  <br/>
+  <a href="https://leetcode.com/problems/shortest-cycle-in-a-graph/submissions/1762051932">
+    Visualizar submissão do exercício 2608
+  </a>
+</div>
 
 ### Exercício 02
 
