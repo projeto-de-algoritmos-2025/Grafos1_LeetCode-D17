@@ -31,7 +31,15 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 02
+### Exercício 02 - [79. Word Search](https://github.com/projeto-de-algoritmos-2025/Grafos1_LeetCode-D17/blob/master/79_Word_Search/solution.cpp) - Médio
+
+<div align="center">
+  <img src="79_Word_Search/image.png" alt="Submissão LeetCode 79" />
+  <br/>
+  <a href="https://leetcode.com/problems/word-search/submissions/1763113468">
+    Visualizar submissão do exercício 79
+  </a>
+</div>
 
 ### Exercício 03
 
