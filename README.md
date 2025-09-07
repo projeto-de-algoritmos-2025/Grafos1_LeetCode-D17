@@ -14,7 +14,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 ## Exercícios
 
-| Questão | Nível  | Vídeo Explicando |
+| Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) | Difícil | - |
 
