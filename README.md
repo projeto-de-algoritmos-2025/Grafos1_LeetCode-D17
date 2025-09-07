@@ -12,8 +12,24 @@
 ## Sobre 
 O projeto possui como tema central a resolução de exercícios de programação competitiva com o tema de Grafos, utilizando a plataforma de juiz online LeetCode.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Exercícios
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+| Questão | Nível  | Vídeo Explicando |
+|---------|--------|------------------|
+| [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) | Difícil | - |
+
+## Screenshots
+
+### Exercício 01
+
+### Exercício 02
+
+### Exercício 03
+
+## Instalação 
+**Linguagem**: C++<br>
+
+## Verificação
+
+Para validar se a solução implementada está correta, submeta o código no **[LeetCode](https://leetcode.com/)** e verifique se o exercício foi aceito. Cada solução contém o link para a descrição completa do problema no próprio código-fonte.
+
