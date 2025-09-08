@@ -17,6 +17,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [2608. Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) | Difícil | - |
+| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | Difícil | - |
 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | Médio | - |
 
 ## Screenshots
@@ -41,7 +42,16 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 03
+### Exercício 03 - [2360. Longest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2025/Grafos1_LeetCode-D17/blob/master/2360_Longest_Cycle_in_a_Graph/solution.cpp) - Difícil
+
+<div align="center">
+  <img src="2360_Longest_Cycle_in_a_Graph/image.png" alt="Submissão LeetCode 2360" />
+  <br/>
+  <a href="https://leetcode.com/problems/longest-cycle-in-a-graph/submissions/1763033682/">
+    Visualizar submissão do exercício 2360
+  </a>
+</div>
+
 
 ## Instalação 
 **Linguagem**: C++<br>
